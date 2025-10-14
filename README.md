@@ -1,5 +1,6 @@
 # Numpy_project
 This project uses NumPy, a Python library for fast numerical computing, to perform efficient data manipulation and mathematical operations. It handles large datasets using multidimensional arrays, vectorization, and broadcasting, enabling quick analysis, transformations, and computations for data-driven tasks.
+
 🎯 Objective:
 You are working with student marks data and need to prepare and organize it using NumPy arrays.Your goal is to create, modify, and analyze the data efficiently without using any external libraries.
 
