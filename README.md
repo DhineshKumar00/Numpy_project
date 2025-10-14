@@ -9,16 +9,16 @@ A school has recorded the marks of several students in different subjects.You ar
 
 📋 Project Tasks:
 
-**Data Creation:**Create suitable arrays to represent students, subjects, and their marks.
+1. **Data Creation:**Create suitable arrays to represent students, subjects, and their marks.
 
-**Data Exploration:**Explore the properties of these arrays — such as their dimensions, size, and structure.
+2. **Data Exploration:**Explore the properties of these arrays — such as their dimensions, size, and structure.
 
-**Data Transformation:**Perform necessary reshaping and reorganization of the data to suit various operations.
+3. **Data Transformation:**Perform necessary reshaping and reorganization of the data to suit various operations.
 
-**Data Combination:**Merge or split arrays to simulate adding new students, new subjects, or reorganizing the dataset.
+4. **Data Combination:**Merge or split arrays to simulate adding new students, new subjects, or reorganizing the dataset.
 
-**Data Modification:**Apply operations to update marks, remove data, or identify unique information.
+5. **Data Modification:**Apply operations to update marks, remove data, or identify unique information.
 
-**Data Type Handling:**Demonstrate how the same data can exist in different data types and how changes affect results.
+6. **Data Type Handling:**Demonstrate how the same data can exist in different data types and how changes affect results.
 
-**Copy and View Behavior:**Show the difference between creating a full copy of an array and creating a view of the same data.
+7. **Copy and View Behavior:**Show the difference between creating a full copy of an array and creating a view of the same data.
